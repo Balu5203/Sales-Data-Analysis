@@ -41,7 +41,8 @@ pip install pandas matplotlib streamlit
   streamlit run "E:\Document\python\sales_data_analysis\analysis\dashboard.py"
    ```
 
-3. The app will open automatically in your browser (e.g. `http://localhost:8501`).
+3. The app will open automatically in your browser (e.g. Local URL   : http://localhost:8504
+                                                            Network URL : http://192.168.86.240:8504).
 
 ---
 
