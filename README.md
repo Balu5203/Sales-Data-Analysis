@@ -38,7 +38,7 @@ pip install pandas matplotlib streamlit
 2. Run the Streamlit dashboard from the terminal:
 
    ```bash
-   streamlit run analysis/dashboard.py
+  streamlit run "E:\Document\python\sales_data_analysis\analysis\dashboard.py"
    ```
 
 3. The app will open automatically in your browser (e.g. `http://localhost:8501`).
